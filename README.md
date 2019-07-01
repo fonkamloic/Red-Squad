@@ -1,5 +1,5 @@
 # Red-Squad
-A team of young Cameroon with integrity and with the aim of learning and becoming cyber security personnel.
+A team of young Cameroon with integrity and with the aim of learning and becoming cyber security personnels.
 
 Some helpful resources to get started;
 -
